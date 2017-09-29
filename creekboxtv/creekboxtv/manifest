@@ -1,0 +1,13 @@
+title=CreekBox Tv
+subtitle=CreekBox Tv
+major_version=1
+minor_version=0
+build_version=20141108135524
+mm_icon_focus_hd=pkg:/locale/default/images/mm_icon_focus_hd_336_210.jpg
+mm_icon_side_hd=pkg:/locale/default/images/mm_icon_side_hd_108_69.jpg
+mm_icon_focus_sd=pkg:/locale/default/images/mm_icon_focus_sd_248_140.jpg
+mm_icon_side_sd=pkg:/locale/default/images/mm_icon_side_sd_80_46.jpg
+splash_screen_sd=pkg:/locale/default/images/splash_screen_sd_720_480.jpg
+splash_screen_hd=pkg:/locale/default/images/splash_screen_hd_1280_720.jpg
+splash_color=#000000
+splash_min_time=3000
